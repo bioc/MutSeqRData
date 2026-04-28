@@ -1,6 +1,6 @@
 Package: MutSeqRData
 Title: Experimental Data for MutSeqR Examples
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Annette E.", "Dodge",
       email = "annette.dodge@hc-sc.gc.ca",
